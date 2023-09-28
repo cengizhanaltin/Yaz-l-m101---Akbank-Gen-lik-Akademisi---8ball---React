@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.buyuk_top {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  border-radius: 50%;
+  display: block;
+}
+.kucuk_top {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-radius: 50%;
+}
+.sekiz {
+  font-size: 100px;
+}
+.ortala {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  width: 100%;
+  min-height: 500px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
