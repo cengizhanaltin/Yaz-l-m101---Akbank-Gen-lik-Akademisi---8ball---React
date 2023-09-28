@@ -5,7 +5,8 @@
 ### We developed an 8 Ball project using react
 
 - Ask Question
-  <img src="/img/Question.png" alt="alt text" width="500" >
+
+<img src="/img/Question.png" alt="alt text" width="500" >
 
 - Click on the ball and wait for the answer
 
